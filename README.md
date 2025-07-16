@@ -6,9 +6,7 @@
 --👩🏼‍🏫 Trabalho como Instrutora de Informática e Design Gráfico.
 
 ## Ferramentas que utilizo como Instrutora 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gimp/gimp-original.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/canva/canva-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/inkscape/inkscape-original.svg" width="40" height="40" /> <img src="https://www.flaticon.com/br/icone-gratis/palavra_888883?term=word&page=1&position=1&origin=search&related_id=888883" width="40" height="40" />
-          
-<img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/c9dcdfdf-5af3-4141-b748-84ef5f8dfe2f" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gimp/gimp-original.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/canva/canva-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/inkscape/inkscape-original.svg" width="40" height="40" /> <img src="https://github.com/user-attachments/assets/c9dcdfdf-5af3-4141-b748-84ef5f8dfe2f" width="40" height="40"/>
 
 
 ## Estou aprendendo
