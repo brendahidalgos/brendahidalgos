@@ -3,9 +3,9 @@
 
 <p>👩🏼‍🎓 Formada em Técnico de Informática para Internet na Etec.</p>
 <p>🌱 Atualmente estou fazendo Faculdade na Fatec de Análise e Desenvolvimento de Sistemas, Técnico de Desenvolvimento de Sistemas e Técnico de Administração na Etec.</p>
-<p>👩🏼‍🏫 Trabalho como Instrutora de Informática e Design Gráfico.</p>
+<p>👩🏼‍🏫 Trabalhei 3 anos como Instrutora de Informática e Design Gráfico.</p>
 
-## Ferramentas que utilizo como Instrutora 
+## Ferramentas que utilizei como Instrutora 
 <img src="https://github.com/user-attachments/assets/41d54871-a4a7-4bf8-904f-b17ea4ebe099" width="40" height="40" /> <img src="https://github.com/user-attachments/assets/4ee8c34f-5bf0-49e0-8126-dbd4baf51290" width="40" height="40" /> <img src="https://github.com/user-attachments/assets/96157060-0ebb-44ca-b8a1-d04e1cbdaba0" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gimp/gimp-original.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/canva/canva-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/inkscape/inkscape-original.svg" width="40" height="40" /> <img src="https://github.com/user-attachments/assets/c6f6510d-b4de-4bb4-8f31-13167fd36e0c" width="40" height="40" />
 
 ## Aprendizado
