@@ -3,7 +3,6 @@
 
 <p>👩🏼‍🎓 Formada em Técnico de Informática para Internet na Etec.</p>
 <p>🌱 Atualmente estou fazendo Faculdade na Fatec de Análise e Desenvolvimento de Sistemas, Técnico de Desenvolvimento de Sistemas e Técnico de Administração na Etec.</p>
-<p>👩🏼‍🏫 Trabalhei 3 anos como Instrutora de Informática e Design Gráfico.</p>
 
 ## Desenvolvimento Web e Mobile 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" width="40" height="40"/><img alt="image" src="https://github.com/user-attachments/assets/5e39e857-d8ad-4cc9-bc22-e83b2ad1cb97" width="40" height="40" />
