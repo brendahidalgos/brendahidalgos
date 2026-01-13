@@ -6,7 +6,8 @@
 
 ## Desenvolvimento Web e Mobile 
 
-<i class="devicon-javascript-plain"></i>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+          
                         
 
 ## Contatos:
