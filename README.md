@@ -1,7 +1,6 @@
 ## Olá, me chamo Brenda! 
 <p>Bem vindo ao meu perfil GitHub 👋</p>
 
-<p>👩🏼‍🎓 Formada em Técnico de Informática para Internet na Etec.</p>
 <p>🌱 Atualmente estou fazendo Faculdade na Fatec de Análise e Desenvolvimento de Sistemas, Técnico de Desenvolvimento de Sistemas e Técnico de Administração na Etec.</p>
 
 ## Desenvolvimento Web e Mobile 
