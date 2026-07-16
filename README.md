@@ -4,10 +4,10 @@
 
 ---
 
-### 🎓 Formação Acadêmica & Conquistas
+### 🎓 Formação Acadêmica
 
 * 🚀 **Graduanda em Análise e Desenvolvimento de Sistemas** — FATEC
-* 🎓 **Técnica em Desenvolvimento de Sistemas** — ETEC *(Concluído)*
+* 🎓 **Técnica em Desenvolvimento de Sistemas** — ETEC 
 * 💼 **Técnica em Administração** — ETEC
 
 ---
