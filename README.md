@@ -47,7 +47,6 @@ Atuo como **Analista de Suporte e Monitoramento**, conectando a teoria da faculd
   <img align="center" alt="Figma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg">
   <img align="center" alt="Photoshop" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg">
   <img align="center" alt="Canva" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/canva/canva-original.svg">
-  <img align="center" alt="Lightroom" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshoplightroom/photoshoplightroom-original.svg">
 </div>
 
 ---
