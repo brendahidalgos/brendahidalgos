@@ -1,6 +1,6 @@
 # Olá, me chamo Brenda! 👋
 
-<p>Bem-vindo ao meu perfil no GitHub! Sou apaixonada por tecnologia, desenvolvimento de software e soluções eficientes.</p>
+<p>Bem-vindo ao meu perfil no GitHub!</p>
 
 ---
 
@@ -9,6 +9,16 @@
 * 🚀 **Graduanda em Análise e Desenvolvimento de Sistemas** — FATEC
 * 🎓 **Técnica em Desenvolvimento de Sistemas** — ETEC *(Concluído)*
 * 💼 **Técnica em Administração** — ETEC
+
+---
+
+### 💼 Atuação Profissional
+
+Atuo como **Analista de Suporte e Monitoramento**, conectando a teoria da faculdade com o dia a dia do mercado de tecnologia. Minhas principais frentes de trabalho incluem:
+
+* 📊 **Observabilidade & Monitoramento**: Análise de métricas de saúde da plataforma para garantir a estabilidade do sistema.
+* 🧪 **Garantia de Qualidade (QA)**: Execução de testes de homologação para validar novas implementações antes de irem ao ar.
+* 👥 **Relacionamento com Stakeholders**: Reuniões com clientes para levantamento de requisitos e melhorias na plataforma.
 
 ---
 
